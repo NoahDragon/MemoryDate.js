@@ -1,0 +1,17 @@
+#calculator {
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+}
+
+#calculator table .c1{
+	text-align: right;
+}
+
+#calculator table .c2{
+	text-align: left;
+}
+
+.warning{
+	color: red;
+}
