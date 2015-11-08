@@ -7,6 +7,7 @@ Highlight:
 
 * Recusive method to add days to a date
 * Embed a [javascript calendar](http://javascriptcalendar.org/) 
+* Calculate the EDC (280 days)
 
 
 TODO:
