@@ -136,6 +136,8 @@ $(document).ready(function(){
 		$("#d_100").text(" "+txt);
 		txt = addDays(d.getDate(),d.getMonth(),d.getFullYear(),200);
 		$("#d_200").text(" "+txt);
+		txt = addDays(d.getDate(),d.getMonth(),d.getFullYear(),280);
+		$("#d_280").text(" "+txt);
 		txt = addDays(d.getDate(),d.getMonth(),d.getFullYear(),500);
 		$("#d_500").text(" "+txt);
 		txt = addDays(d.getDate(),d.getMonth(),d.getFullYear(),1000);
@@ -145,6 +147,7 @@ $(document).ready(function(){
 		$("#d_50").text("");
 		$("#d_100").text("");
 		$("#d_200").text("");
+		$("#d_280").text("");
 		$("#d_500").text("");
 		$("#d_1000").text("");
 	}
